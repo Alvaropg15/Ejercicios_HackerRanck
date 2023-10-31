@@ -1,0 +1,11 @@
+En este desafío, debes leer enteros de stdin y luego imprimirlos en stdout.
+Cada número entero debe imprimirse en una nueva línea.
+Entrada de muestra:
+42
+100
+125
+
+Salida de muestra:
+42
+100
+125

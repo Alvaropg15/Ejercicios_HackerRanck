@@ -1,0 +1,16 @@
+En este desafío, debes leer un número entero , un doble y una cadena de la entrada estándar,
+luego imprimir los valores de acuerdo con las instrucciones en la sección Formato de salida a continuación.
+
+Formato de entrada:
+
+Hay tres líneas de entrada:
+1- La primera línea contiene un número entero.
+2- La segunda línea contiene un doble.
+3- La tercera línea contiene un String.
+
+Formato de Salida:
+
+Hay tres líneas de salida:
+1- En la primera línea, imprima String:seguido de la cadena inalterada leída desde la entrada estándar.
+2- En la segunda línea, imprima Double:seguido de la doble lectura inalterada de la entrada estándar.
+3- En la tercera línea, imprima Int:seguido del número entero inalterado leído desde la entrada estándar.

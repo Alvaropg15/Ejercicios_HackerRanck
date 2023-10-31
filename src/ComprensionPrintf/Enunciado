@@ -1,0 +1,27 @@
+Formato de entrada:
+
+Cada línea de entrada contendrá una cadena seguida de un número entero .
+Cada cadena tendrá un máximo de 10 caracteres alfabéticos,
+y cada número entero estará en el rango inclusivo desde 0 a 999.
+
+Formato de salida:
+
+En cada línea de salida debe haber dos columnas:
+-La primera columna contiene la cadena y está justificada a la izquierda usando exactamente 15 caracteres.
+-La segunda columna contiene el número entero , expresado exactamente en 3 dígitos;
+Si la entrada original tiene menos de tres dígitos,
+debe rellenar con ceros los primeros dígitos de la salida.
+
+Entrada muestra:
+
+java 100
+cpp 65
+python 50
+
+Salida muestra:
+
+================================
+java           100
+cpp            065
+python         050
+================================
