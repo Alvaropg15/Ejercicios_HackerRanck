@@ -1,0 +1,11 @@
+Dado un número entero, N, imprime sus primeros 10 múltiplos.
+Cada múltiplo N x i (dónde 1 <= i <= 10) debe imprimirse en una nueva línea con el formato: N x i = result.
+
+Formato de entrada:
+
+Un solo número entero, N.
+
+Formato de salida:
+
+Imprimir 10 líneas de salida; cada línea(dónde1 <= i <= 10) contiene el resultado de N en la forma:
+N x i = resultado.
